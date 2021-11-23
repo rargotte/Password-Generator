@@ -41,5 +41,11 @@ Special Characters:
 
 <img src= "Develop/img/Special.jpg">
 
+The resulting password will be given within the dotted screen. You can select the password copy and paste where needed.
+
+Password (enclosed in red square just for the example purposes):
+
+<img src= "Develop/img/Password.jpg">
+
 ## License
 Copyright (c) 11/06/2021 _Regulo Argotte_
