@@ -21,7 +21,8 @@ Pop up windows will let you decide the length and composition of your password:
 
 Length could be from 8 to 128 characters.
 
-<img src= "img/length.jpg">
+<img src= "img/Length.jpg">
+
 
 
 More Passwords Usage
